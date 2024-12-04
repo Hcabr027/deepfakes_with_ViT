@@ -1,4 +1,4 @@
-# deepfakes_with_ViT
+# CS221 Final Project: Detecting deepfakes with ViT
 
 Fine-Tune ViT for detection of deepfakes. \
 Dataset: [Deepfake-and-real-image](https://huggingface.co/datasets/JamieWithofs/Deepfake-and-real-image)\
