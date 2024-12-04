@@ -50,7 +50,7 @@ model = ViTForImageClassification.from_pretrained(
 print("Finished downloading model ...")
 
 training_args = TrainingArguments(
-  output_dir="./vit-base-deepfake-demo",
+  output_dir="./vit-base-deepfake",
   per_device_train_batch_size=16,
   evaluation_strategy="steps",
   num_train_epochs=4,
