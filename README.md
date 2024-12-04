@@ -7,5 +7,5 @@ Video presenttion: (https://www.youtube.com/watch?v=HxufbFx8f5Y)\
 
 # Usage 
 1. pip install -r requirements.txt
-2. Inference use the model_inference.py with specific image. Example images available inside examle folder. 
+2. Inference use the model_inference.py with specific image. Example images available inside example folder. 
    
